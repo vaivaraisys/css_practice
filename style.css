@@ -1,0 +1,22 @@
+body {
+    font: Arial, Verdana;
+    background-color: black;
+    color: white;
+    margin: 20px 20px 0px 20px;
+}
+
+h1 {
+    text-align: 42px center;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 30px #0D0D0D;
+}
+
+p {
+   font: 24px; 
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
