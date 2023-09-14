@@ -11,12 +11,25 @@ h1 {
 }
 
 h2 {
-    font-size: 30px #0D0D0D;
+    font-size: 30px black;
 }
 
-p {
-   font: 24px; 
+p{
+   font-size: 24px; 
    padding-top: 10px;
    padding-left: 10px;
 }
 
+img{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: dashed 10px white;
+}
+
+div{
+    min-height: 125px;
+    padding: 20px;
+    border: solid white 3px;
+}
